@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "419436543029",
+    "firebase_url": "https://ipoll-da231-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ipoll-da231",
+    "storage_bucket": "ipoll-da231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419436543029:android:9e1b2143be99263558c57c",
+        "android_client_info": {
+          "package_name": "com.example.ipoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419436543029-4hnh66g6qd4rqgc36g1f6ii0dt5gmj7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRR71eDIIiKjO4gUBN7maXLCjverOmWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419436543029-4hnh66g6qd4rqgc36g1f6ii0dt5gmj7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419436543029-5cca08d2pcnjss420dv672421nbpf314.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ipollApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419436543029:android:edd0413984b8760858c57c",
+        "android_client_info": {
+          "package_name": "com.example.ipoll_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419436543029-8mpm36i3ch9oo93nkc78a8o7838p03md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ipoll_application",
+            "certificate_hash": "97b6f0765257fe752c6310a7a8c4e298c4a73c61"
+          }
+        },
+        {
+          "client_id": "419436543029-4hnh66g6qd4rqgc36g1f6ii0dt5gmj7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRR71eDIIiKjO4gUBN7maXLCjverOmWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419436543029-4hnh66g6qd4rqgc36g1f6ii0dt5gmj7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419436543029-5cca08d2pcnjss420dv672421nbpf314.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ipollApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

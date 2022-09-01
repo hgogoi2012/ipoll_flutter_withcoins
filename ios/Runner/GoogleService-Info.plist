@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419436543029-j6ck048p41fnl6e15a6q69t21kgt96dt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419436543029-j6ck048p41fnl6e15a6q69t21kgt96dt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>419436543029-i5e9gjb3rof0amsrcr7qn08u427urot5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1mMnd58jtQn1S6jo6B9i_KP_BNSgRFoM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419436543029</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ipoll</string>
+	<key>PROJECT_ID</key>
+	<string>ipoll-da231</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ipoll-da231.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419436543029:ios:21560bef8832ef8358c57c</string>
+	<key>DATABASE_URL</key>
+	<string>https://ipoll-da231-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
